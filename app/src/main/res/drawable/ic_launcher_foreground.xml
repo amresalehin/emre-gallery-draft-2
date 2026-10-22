@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top Petal (Coral Red) -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M54,27 C61.18,27 67,32.82 67,40 L67,54 L54,54 C46.82,54 41,48.18 41,41 C41,33.27 46.82,27 54,27 Z" />
+
+    <!-- Right Petal (Amber Yellow) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M81,54 C81,61.18 75.18,67 68,67 L54,67 L54,54 C54,46.82 59.82,41 67,41 C74.73,41 81,46.82 81,54 Z" />
+
+    <!-- Bottom Petal (Emerald Mint) -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,81 C46.82,81 41,75.18 41,68 L41,54 L54,54 C61.18,54 67,59.82 67,67 C67,74.73 61.18,81 54,81 Z" />
+
+    <!-- Left Petal (Electric Cyan / Blue) -->
+    <path
+        android:fillColor="#2979FF"
+        android:pathData="M27,54 C27,46.82 32.82,41 40,41 L54,41 L54,54 C54,61.18 48.18,67 41,67 C33.27,67 27,61.18 27,54 Z" />
+
+    <!-- Inner Aperture Ring -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,50 A4,4 0 1,0 54,58 A4,4 0 1,0 54,50 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Gallery",
+  "description": "A powerful media management and gallery app inspired by Google Photos and Aves, featuring timeline browsing, EXIF metadata inspection, smart albums, tags, and rich editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
